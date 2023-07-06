@@ -1,6 +1,6 @@
 # blog
 
-: <vue.js - bootstrap을 활용한 blog 레이아웃과 라우터>를 학습하며 만든 '블로그' 입니다.
+<vue.js - bootstrap을 활용한 blog 레이아웃과 라우터>를 학습하며 만든 '블로그' 입니다.
 
 ## Project setup
 
