@@ -64,6 +64,15 @@ export default {
       블로그글: blog
     }
   },
+  // beforeRouteEnter(to, from){
+  //   // Vue 컴포넌트 안에서도 navigation guard 쓸 수 있음
+  //   // lifecycle hook쓰는 위치에다가 쓰면 된다.
+  //   // 목적지인 to, 출발지인 from을 의미한다.
+  //   // 특정 페이지로 접속했을 때 ajax 요청하고 그럴 일이 있으면 여기다가 쓰면된다.
+  // },
+  // beforeRouteUpdate(){
+  //   // Vue 컴포넌트 안에서도 navigation guard 쓸 수 있음
+  // },
   components: {
     // ContentList: ContentList
   }
